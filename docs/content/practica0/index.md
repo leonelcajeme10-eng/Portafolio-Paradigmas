@@ -20,8 +20,8 @@ title = 'Practica 0: Manejo de Repositorios (Markdown, Git, Hugo)'
 
 ---
 
-> Repositorio en GitHub: [github.com/tu-usuario/tu-repositorio](https://github.com/leonelcajeme10-eng/Portafolio-Paradigmas)  
-> Página estática (GitHub Pages): [tu-usuario.github.io/tu-repositorio](https://leonelcajeme10-eng.github.io/Portafolio-Paradigmas/)
+> Repositorio en GitHub: [github.com/leonelcajeme10-eng/Portafolio-Paradigmas](https://github.com/leonelcajeme10-eng/Portafolio-Paradigmas)  
+> Página estática (GitHub Pages): [leonelcajeme10-eng.github.io/Portafolio-Paradigmas/](https://leonelcajeme10-eng.github.io/Portafolio-Paradigmas/)
 
 </div>
 
