@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Feb 2026 20:40:51 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica4</title>
+      <link>http://localhost:1313/practica4/</link>
+      <pubDate>Fri, 20 Feb 2026 20:40:51 -0800</pubDate>
+      <guid>http://localhost:1313/practica4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practica3</title>
+      <link>http://localhost:1313/practica3/</link>
+      <pubDate>Fri, 20 Feb 2026 20:40:44 -0800</pubDate>
+      <guid>http://localhost:1313/practica3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practica2</title>
+      <link>http://localhost:1313/practica2/</link>
+      <pubDate>Fri, 20 Feb 2026 20:40:39 -0800</pubDate>
+      <guid>http://localhost:1313/practica2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practica1</title>
+      <link>http://localhost:1313/practica1/</link>
+      <pubDate>Fri, 20 Feb 2026 20:40:34 -0800</pubDate>
+      <guid>http://localhost:1313/practica1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practica 0: Manejo de Repositorios (Markdown, Git, Hugo)</title>
+      <link>http://localhost:1313/practica0/</link>
+      <pubDate>Fri, 20 Feb 2026 20:38:12 -0800</pubDate>
+      <guid>http://localhost:1313/practica0/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;paradigmas-de-la-programacion-practica-0&#34;&gt;Paradigmas de la Programacion: Practica 0&lt;/h1&gt;&#xA;&lt;h2 id=&#34;markdown--git--github--hugo--github-actions&#34;&gt;Markdown · Git · GitHub · Hugo · GitHub Actions&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Materia:&lt;/strong&gt; Paradigmas de la Programacion&lt;br&gt;&#xA;&lt;strong&gt;Nombre:&lt;/strong&gt; &lt;em&gt;Leonel Cajeme Garcia&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Matricula:&lt;/strong&gt; &lt;em&gt;379154&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Grupo:&lt;/strong&gt; &lt;em&gt;Ing. Software 941&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Profesor:&lt;/strong&gt; &lt;em&gt;Jose Carlos Gallegos Mariscal&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Fecha:&lt;/strong&gt; &lt;em&gt;20 de febrero de 2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;📁 Repositorio en GitHub: &lt;a href=&#34;https://github.com/tu-usuario/tu-repositorio&#34;&gt;github.com/tu-usuario/tu-repositorio&lt;/a&gt;&lt;br&gt;&#xA;🌐 Página estática (GitHub Pages): &lt;a href=&#34;https://tu-usuario.github.io/tu-repositorio&#34;&gt;tu-usuario.github.io/tu-repositorio&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
