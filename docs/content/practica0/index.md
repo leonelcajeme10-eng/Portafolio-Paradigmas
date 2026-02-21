@@ -20,8 +20,8 @@ title = 'Practica 0: Manejo de Repositorios (Markdown, Git, Hugo)'
 
 ---
 
-> 📁 Repositorio en GitHub: [github.com/tu-usuario/tu-repositorio](https://github.com/tu-usuario/tu-repositorio)  
-> 🌐 Página estática (GitHub Pages): [tu-usuario.github.io/tu-repositorio](https://tu-usuario.github.io/tu-repositorio)
+> Repositorio en GitHub: [github.com/tu-usuario/tu-repositorio](https://github.com/tu-usuario/tu-repositorio)  
+> Página estática (GitHub Pages): [tu-usuario.github.io/tu-repositorio](https://tu-usuario.github.io/tu-repositorio)
 
 </div>
 
