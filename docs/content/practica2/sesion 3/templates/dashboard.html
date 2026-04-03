@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+<div class="container">
+    <h1>Dashboard</h1>
+
+    <p><b>Libres:</b> {{ libres }}</p>
+    <p><b>Ocupados:</b> {{ ocupados }}</p>
+
+    <h2>Tickets activos</h2>
+    <ul>
+    {% for t in tickets %}
+        <li>#{{ t.get_id() }} - {{ t.get_vehicle().get_placas() }}</li>
+    {% endfor %}
+    </ul>
+
+    <a href="/entry">Registrar Entrada</a>
+    <a href="/exit">Registrar Salida</a>
+</div>

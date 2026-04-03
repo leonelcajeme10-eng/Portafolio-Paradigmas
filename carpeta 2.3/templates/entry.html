@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+<div class="container">
+    <h1>Registrar Entrada</h1>
+
+    <form method="post">
+        <input name="placas" placeholder="Placas"><br>
+
+        <select name="tipo">
+            <option>Car</option>
+            <option>Motorcycle</option>
+        </select><br>
+
+        <button type="submit">Registrar</button>
+    </form>
+
+    <a href="/">Volver</a>
+</div>
