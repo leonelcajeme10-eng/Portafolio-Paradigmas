@@ -2,6 +2,7 @@
 date = '2026-02-20T20:40:39-08:00'
 draft = false
 title = 'Practica3'
+weight = 4
 +++
 
 # Práctica 03: Entorno de Desarrollo Haskell y App TODO

@@ -2,6 +2,7 @@
 date = '2026-02-20T20:38:12-08:00'
 draft = false
 title = 'Practica 0: Manejo de Repositorios (Markdown, Git, Hugo)'
+weight = 1
 +++
 
 <div align="center">

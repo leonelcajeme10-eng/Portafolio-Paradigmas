@@ -2,6 +2,7 @@
 date = '2026-02-20T20:40:51-08:00'
 draft = false
 title = 'Practica4'
+weight = 5
 +++
 # Practica 4: Paradigma Lógico con Prolog
 

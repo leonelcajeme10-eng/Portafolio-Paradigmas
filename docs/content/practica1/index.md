@@ -2,6 +2,7 @@
 date = '2026-02-20T20:40:34-08:00'
 draft = false
 title = 'Practica1'
+weight = 2
 +++
 
 # Práctica 01: Cola de Impresión en Lenguaje C

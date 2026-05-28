@@ -2,6 +2,7 @@
 date = '2026-02-20T20:40:39-08:00'
 draft = false
 title = 'Practica2'
+weight = 3
 +++
 
 # Práctica 02: Simulador de Estacionamiento
